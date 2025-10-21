@@ -3,10 +3,10 @@ const CACHE_NAME = 'cocktail-pwa-v2';
 
 const appShellAssets = [
     '/',
-    '/index.html',
-    '/main.js',
-    '/styles/main.css',
-    '/scripts/app.js'
+    './index.html',
+    './main.js',
+    './styles/main.css',
+    './scripts/app.js'
 ];
 const OFFLINE_COCKTAIL_JSON = {
     drinks: [{
@@ -68,4 +68,5 @@ self.addEventListener('fetch', event => {
         return;
     }
    });
+
 
