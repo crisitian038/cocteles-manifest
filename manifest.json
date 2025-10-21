@@ -8,12 +8,12 @@
     "desciption": "implementacion del manifest a la aplicacion de cocteles",
     "icons": [
         {
-            "src": "/cocteles-manifest/images/192.png",
+            "src": "/images/192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/cocteles-manifest/images/512.png",
+            "src": "/images/512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
